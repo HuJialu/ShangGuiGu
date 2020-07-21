@@ -2,6 +2,8 @@ package String;
 
 import org.junit.Test;
 
+import java.util.zip.DeflaterOutputStream;
+
 /**
  * String类
  * final类，代表不可变的字符序列
@@ -85,6 +87,7 @@ public class StringTest {
         结论：
         1. 常量与常量的拼接结果在常量池。且常量池中不会存在相同的常量内容。
         2. 只要有一个是变量，结果就在堆空间中
+        3. 如果拼接的结果调用intern()方法，返回值就在常量池中
      */
     @Test
     public void test3(){
@@ -108,5 +111,9 @@ public class StringTest {
         //返回值得到的s8实用的常量池中已经存在的"abcdef"
         String s8 = s5.intern();
         System.out.println(s3 == s8);//true
+
+        final String s9 = "abc";
+        String s10 = s9 + "def";
+        System.out.println(s3 == s10); // true
     }
 }
