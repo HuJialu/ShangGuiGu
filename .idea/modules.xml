@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter10_EnumerationClass&amp;Annotation/Chapter10_EnumerationClass&amp;Annotation.iml" filepath="$PROJECT_DIR$/Chapter10_EnumerationClass&amp;Annotation/Chapter10_EnumerationClass&amp;Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11_Collection/Chapter11_Collection.iml" filepath="$PROJECT_DIR$/Chapter11_Collection/Chapter11_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12_Generic/Chapter12_Generic.iml" filepath="$PROJECT_DIR$/Chapter12_Generic/Chapter12_Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter13_IOStream/Chapter13_IOStream.iml" filepath="$PROJECT_DIR$/Chapter13_IOStream/Chapter13_IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter14_NetworkProgramming/Chapter14_NetworkProgramming.iml" filepath="$PROJECT_DIR$/Chapter14_NetworkProgramming/Chapter14_NetworkProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15_Reflection/Chapter15_Reflection.iml" filepath="$PROJECT_DIR$/Chapter15_Reflection/Chapter15_Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter8_Thread/Chapter8_Thread.iml" filepath="$PROJECT_DIR$/Chapter8_Thread/Chapter8_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9_CommonClass/Chapter9_CommonClass.iml" filepath="$PROJECT_DIR$/Chapter9_CommonClass/Chapter9_CommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShangGuiGu.iml" filepath="$PROJECT_DIR$/ShangGuiGu.iml" />
+    </modules>
+  </component>
+</project>
