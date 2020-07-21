@@ -112,6 +112,7 @@ public class StringTest {
         String s8 = s5.intern();
         System.out.println(s3 == s8);//true
 
+        //final 为常量，在常量池中
         final String s9 = "abc";
         String s10 = s9 + "def";
         System.out.println(s3 == s10); // true
