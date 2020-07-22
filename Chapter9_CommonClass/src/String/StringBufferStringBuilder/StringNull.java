@@ -19,6 +19,6 @@ public class StringNull {
         System.out.println("str = " + str); //null
 
         StringBuilder str2 = new StringBuilder(s);  //NullPointerException
-        System.out.println("str2 = " + str2);       //未运行
+        //System.out.println("str2 = " + str2);       //未运行
     }
 }
