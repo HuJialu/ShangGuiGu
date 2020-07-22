@@ -150,6 +150,5 @@ public class OldTimeAPI {
         Date date1 = new Date();
         calendar.setTime(date1);
         System.out.println("calendar.get(Calendar.DAY_OF_MONTH) = " + calendar.get(Calendar.DAY_OF_MONTH));
-
     }
 }
